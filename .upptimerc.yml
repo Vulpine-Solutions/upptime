@@ -1,36 +1,78 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Vulpine-Solutions # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # Vulpine
+  - name: Becoming Me
+    url: https://becoming.client.vulpinesolutions.net
+  - name: Carepoint Inc
+    url: https://carepoint.client.vulpinesolutions.net
+  - name: Church of Hope
+    url: https://hopeinocala.client.vulpinesolutions.net
+  - name: Deco-Create
+    url: https://decocreate.client.vulpinesolutions.net
+  - name: Grand Harbor
+    url: https://grandharbor.client.vulpinesolutions.net
+  - name: Grand Strand Charter Arts
+    url: https://gsca.client.vulpinesolutions.net
+  - name: Gretel Uys
+    url: https://greteluys.client.vulpinesolutions.net
+  - name: GrowCo Lab
+    url: https://growcolab.client.vulpinesolutions.net
+  - name: Maranatha
+    url: https://maranatha.client.vulpinesolutions.net
+  - name: Mark D. Cummins
+    url: https://markdcummins.client.vulpinesolutions.net
+  - name: Monkey's Bar
+    url: https://monkeysbar.client.vulpinesolutions.net
+  - name: Phoenix Construction Group
+    url: https://phoenixconstruction.client.vulpinesolutions.net
+  - name: Seas the Day Travel
+    url: https://seastheday.client.vulpinesolutions.net
+  - name: Shane Tanzosh
+    url: https://shanetanzosh.client.vulpinesolutions.net
+  - name: The Conference Center
+    url: https://cc.client.vulpinesolutions.net
+  - name: Touch of Class Concierge
+    url: https://touchofclass.client.vulpinesolutions.net
+  - name: UTurn Consulting
+    url: https://uturn.client.vulpinesolutions.net
+  - name: VS MainWP
+    url: https://clients.vulpinesolutions.net
+  - name: Vulpine Solutions
+    url: https://vulpinesolutions.net
+  - name: Wallace Success
+    url: https://wallacesuccess.com/
+  # Valorous
+  - name: Valorous - 3CX
+    url: https://lifecrest.3cx.us
+  - name: Valorous - Church Online
+    url: https://live.valorouschurch.com
+  - name: Valorous - Rock RMS
+    url: https://rock.valorouschurch.com
+  - name: Valorous Academy
+    url: https://valorousacademy.com
+  - name: Valorous Academy - Moodle
+    url: https://college.valorousacademy.com
+  - name: ValorousChurch.com
+    url: https://valorouschurch.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
