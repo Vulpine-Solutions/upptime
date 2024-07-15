@@ -10,8 +10,6 @@ sites:
     url: https://carepoint.client.vulpinesolutions.net
   - name: Church of Hope
     url: https://hopeinocala.client.vulpinesolutions.net
-  - name: Deco-Create
-    url: https://decocreate.client.vulpinesolutions.net
   - name: Grand Harbor
     url: https://grandharbor.client.vulpinesolutions.net
   - name: Grand Strand Charter Arts
