@@ -364,19 +364,19 @@
     "url": "https://live.valorouschurch.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.valorouschurch.com.ico",
     "slug": "valorous-church-online",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 168,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 291,
+    "timeDay": 185,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-07-20": 0
+      "2024-07-20": 19
     }
   },
   {
