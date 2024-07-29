@@ -421,19 +421,19 @@
     "url": "https://college.valorousacademy.com",
     "icon": "https://icons.duckduckgo.com/ip3/college.valorousacademy.com.ico",
     "slug": "valorous-academy-moodle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 463,
-    "timeWeek": 487,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 427,
+    "timeDay": 420,
+    "timeWeek": 473,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-07-29": 0
+      "2024-07-29": 39
     }
   },
   {
