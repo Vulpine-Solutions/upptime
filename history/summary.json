@@ -22,19 +22,19 @@
     "url": "https://carepoint.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/carepoint.client.vulpinesolutions.net.ico",
     "slug": "carepoint-inc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 483,
-    "timeDay": 364,
-    "timeWeek": 421,
+    "timeDay": 407,
+    "timeWeek": 429,
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2024-08-08": 0
+      "2024-08-08": 22
     }
   },
   {
