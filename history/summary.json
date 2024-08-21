@@ -42,19 +42,19 @@
     "url": "https://hopeinocala.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/hopeinocala.client.vulpinesolutions.net.ico",
     "slug": "church-of-hope",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 525,
-    "timeWeek": 434,
-    "timeMonth": 397,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 437,
+    "timeDay": 517,
+    "timeWeek": 445,
+    "timeMonth": 401,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-08-21": 0
+      "2024-08-21": 9
     }
   },
   {
