@@ -243,19 +243,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cc.client.vulpinesolutions.net.ico",
     "slug": "the-conference-center",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 428,
     "timeWeek": 446,
     "timeMonth": 525,
     "timeYear": 506,
-    "dailyMinutesDown": {
-      "2024-08-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Touch of Class Concierge",
@@ -263,19 +261,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/touchofclass.client.vulpinesolutions.net.ico",
     "slug": "touch-of-class-concierge",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 369,
     "timeDay": 301,
     "timeWeek": 380,
     "timeMonth": 376,
     "timeYear": 369,
-    "dailyMinutesDown": {
-      "2024-08-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UTurn Consulting",
@@ -283,19 +279,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uturn.client.vulpinesolutions.net.ico",
     "slug": "u-turn-consulting",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 675,
     "timeWeek": 464,
     "timeMonth": 412,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2024-08-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VS MainWP",
