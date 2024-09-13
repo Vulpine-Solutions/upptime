@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/carepoint.client.vulpinesolutions.net.ico",
     "slug": "carepoint-inc",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 514,
     "timeDay": 749,
     "timeWeek": 546,
@@ -393,9 +393,9 @@
     "url": "https://rock.valorouschurch.com",
     "icon": "https://icons.duckduckgo.com/ip3/rock.valorouschurch.com.ico",
     "slug": "valorous-rock-rms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
@@ -405,6 +405,7 @@
     "timeMonth": 334,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2024-09-13": 0,
       "2024-08-27": 49
     }
   },
