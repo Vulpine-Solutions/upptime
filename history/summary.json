@@ -170,19 +170,19 @@
     "url": "https://monkeysbar.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/monkeysbar.client.vulpinesolutions.net.ico",
     "slug": "monkey-s-bar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 293,
-    "timeWeek": 420,
-    "timeMonth": 441,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 409,
+    "timeDay": 282,
+    "timeWeek": 401,
+    "timeMonth": 436,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-09-16": 1
+      "2024-09-16": 7
     }
   },
   {
