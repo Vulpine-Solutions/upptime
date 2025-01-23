@@ -78,36 +78,40 @@
     "url": "https://gsca.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/gsca.client.vulpinesolutions.net.ico",
     "slug": "grand-strand-charter-arts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 876,
     "timeDay": 838,
     "timeWeek": 912,
     "timeMonth": 746,
     "timeYear": 876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 6
+    }
   },
   {
     "name": "Gretel Uys",
     "url": "https://greteluys.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/greteluys.client.vulpinesolutions.net.ico",
     "slug": "gretel-uys",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 300,
     "timeWeek": 1119,
     "timeMonth": 577,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 5
+    }
   },
   {
     "name": "GrowCo Lab",
@@ -188,18 +192,20 @@
     "url": "https://phoenixconstruction.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/phoenixconstruction.client.vulpinesolutions.net.ico",
     "slug": "phoenix-construction-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 194,
     "timeWeek": 684,
     "timeMonth": 493,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 3
+    }
   },
   {
     "name": "Seas the Day Travel",
@@ -224,10 +230,10 @@
     "url": "https://shanetanzosh.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/shanetanzosh.client.vulpinesolutions.net.ico",
     "slug": "shane-tanzosh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
@@ -235,17 +241,19 @@
     "timeWeek": 782,
     "timeMonth": 493,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 2
+    }
   },
   {
     "name": "The Conference Center",
     "url": "https://cc.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/cc.client.vulpinesolutions.net.ico",
     "slug": "the-conference-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 473,
@@ -254,6 +262,7 @@
     "timeMonth": 448,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2025-01-23": 1,
       "2024-12-17": 1043,
       "2024-12-16": 122
     }
