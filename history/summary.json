@@ -42,9 +42,9 @@
     "url": "https://hopeinocala.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/hopeinocala.client.vulpinesolutions.net.ico",
     "slug": "church-of-hope",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 324,
     "timeMonth": 454,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "Grand Harbor",
