@@ -308,9 +308,9 @@
     "url": "https://clients.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/clients.vulpinesolutions.net.ico",
     "slug": "vs-main-wp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -319,7 +319,9 @@
     "timeWeek": 335,
     "timeMonth": 473,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Vulpine Solutions",
@@ -438,12 +440,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.87%",
     "time": 2809,
     "timeDay": 2918,
-    "timeWeek": 3918,
+    "timeWeek": 4265,
     "timeMonth": 2867,
     "timeYear": 2809,
     "dailyMinutesDown": {
@@ -470,12 +472,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.87%",
     "time": 475,
     "timeDay": 410,
-    "timeWeek": 852,
+    "timeWeek": 585,
     "timeMonth": 605,
     "timeYear": 475,
     "dailyMinutesDown": {
