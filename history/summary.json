@@ -78,10 +78,10 @@
     "url": "https://gsca.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/gsca.client.vulpinesolutions.net.ico",
     "slug": "grand-strand-charter-arts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 888,
@@ -90,6 +90,7 @@
     "timeMonth": 952,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2025-02-13": 2,
       "2025-01-23": 20
     }
   },
