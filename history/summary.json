@@ -22,11 +22,11 @@
     "url": "https://carepoint.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/carepoint.client.vulpinesolutions.net.ico",
     "slug": "carepoint-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 501,
     "timeDay": 742,
@@ -34,6 +34,7 @@
     "timeMonth": 484,
     "timeYear": 501,
     "dailyMinutesDown": {
+      "2025-02-13": 8,
       "2024-08-08": 22
     }
   },
@@ -60,18 +61,20 @@
     "url": "https://grandharbor.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/grandharbor.client.vulpinesolutions.net.ico",
     "slug": "grand-harbor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 533,
     "timeDay": 562,
     "timeWeek": 384,
     "timeMonth": 490,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-13": 7
+    }
   },
   {
     "name": "Grand Strand Charter Arts",
@@ -79,18 +82,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gsca.client.vulpinesolutions.net.ico",
     "slug": "grand-strand-charter-arts",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.97%",
     "time": 888,
     "timeDay": 1061,
     "timeWeek": 751,
     "timeMonth": 952,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2025-02-13": 2,
+      "2025-02-13": 66,
       "2025-01-23": 20
     }
   },
@@ -99,11 +102,11 @@
     "url": "https://greteluys.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/greteluys.client.vulpinesolutions.net.ico",
     "slug": "gretel-uys",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 465,
     "timeDay": 607,
@@ -111,6 +114,7 @@
     "timeMonth": 661,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2025-02-13": 6,
       "2025-01-23": 20
     }
   },
@@ -175,18 +179,20 @@
     "url": "https://monkeysbar.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/monkeysbar.client.vulpinesolutions.net.ico",
     "slug": "monkey-s-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 403,
     "timeDay": 695,
     "timeWeek": 416,
     "timeMonth": 405,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-13": 5
+    }
   },
   {
     "name": "Phoenix Construction Group",
@@ -251,10 +257,10 @@
     "url": "https://cc.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/cc.client.vulpinesolutions.net.ico",
     "slug": "the-conference-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 469,
@@ -263,6 +269,7 @@
     "timeMonth": 443,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2025-02-13": 3,
       "2025-01-23": 16,
       "2024-12-17": 1043,
       "2024-12-16": 122
@@ -273,10 +280,10 @@
     "url": "https://touchofclass.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/touchofclass.client.vulpinesolutions.net.ico",
     "slug": "touch-of-class-concierge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
@@ -284,17 +291,19 @@
     "timeWeek": 393,
     "timeMonth": 384,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-13": 1
+    }
   },
   {
     "name": "UTurn Consulting",
     "url": "https://uturn.client.vulpinesolutions.net",
     "icon": "https://icons.duckduckgo.com/ip3/uturn.client.vulpinesolutions.net.ico",
     "slug": "u-turn-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
@@ -302,7 +311,9 @@
     "timeWeek": 465,
     "timeMonth": 398,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-13": 1
+    }
   },
   {
     "name": "VS MainWP",
